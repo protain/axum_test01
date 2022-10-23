@@ -1,0 +1,9 @@
+
+
+Post http://localhost:3000/get
+Content-Type: application/json
+
+{
+    "email": "ryuta.hayashi@fujifilm.com",
+    "password": "P@ssw0rd"
+}
